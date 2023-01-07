@@ -102,3 +102,46 @@ ul{
     border: 0;
     padding-bottom: 50px;
 }
+.finishing{
+    display: flex;
+    color: whitesmoke;
+    background-color: black;
+    background-size: cover;
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.outro{
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+.outro-description{
+    font-size: 20px;
+}
+.form{
+    padding-right: 50px
+}
+.form-title{
+    font-size: 25px;
+}
+.last-in{
+    font-size: 20px;
+    border-radius: 5px;
+}
+.last-btn{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 10px;
+}
+.fb{
+    padding-right: 20px;
+}
+.tweet{
+    padding-right: 20px;
+}
+.yt{
+    padding-right: 20px;
+}
