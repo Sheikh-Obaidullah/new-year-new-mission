@@ -34,3 +34,21 @@ header{
     border-radius: 5px;
     border: 0;
 }
+.failure{
+    display: flex;
+    margin: 160px 150px;
+}
+.failure-writings{
+    font-size: 25px;
+    padding-left: 50px;
+}
+.failure-title{
+    font-size: 35px;
+    font-weight: 600;
+}
+.failure-description{
+    color: darkslategray;
+}
+ul{
+    color: darkslategray;  
+}
