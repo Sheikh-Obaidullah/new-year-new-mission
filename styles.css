@@ -52,3 +52,30 @@ header{
 ul{
     color: darkslategray;  
 }
+.plans{
+    text-align: center;
+}
+.plans-title{
+    font-size: 40px;
+    font-weight: 800;
+}
+.plans-container{
+    display: flex;
+}
+.plan-title{
+    font-size: 25px;
+    font-weight: 600;
+}
+.plan{
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 120px;
+}
+.plan-description{
+    font-size: 20px;
+}
+.advice{
+    
+}
